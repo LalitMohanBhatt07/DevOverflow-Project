@@ -1,11 +1,11 @@
 import React from 'react'
 
-const SignIn = () => {
+const SignUp = () => {
   return (
     <div>
-      sign-in
+      sign-up
     </div>
   )
 }
 
-export default SignIn
+export default SignUp
